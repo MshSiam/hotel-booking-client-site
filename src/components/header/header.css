@@ -87,3 +87,17 @@
   top: 55px;
   left: 25%;
 }
+
+.options {
+  position: absolute;
+  top: 50px;
+  color: black;
+  border-radius: 5px;
+}
+
+.optionItem {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
